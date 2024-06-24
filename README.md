@@ -4,12 +4,12 @@
 - unix: https://pages.lip6.fr/Pierre.Sens/srcv6/
 - https://mirrors.edge.kernel.org/pub/linux/kernel/
 
-![](./1136.png)
+![](pic/1136.png)
 
 
 
 
-![](./2310.png)
+![](pic/2310.png)
 
 
 ~~~
