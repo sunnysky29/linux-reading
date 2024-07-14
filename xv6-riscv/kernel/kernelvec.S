@@ -1,4 +1,4 @@
-        #
+        # 处理来自内核的trap， 定时器中断
         # interrupts and exceptions while in supervisor
         # mode come here.
         #

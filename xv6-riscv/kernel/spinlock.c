@@ -46,7 +46,7 @@ acquire(struct spinlock *lk)
 void
 release(struct spinlock *lk)
 {
-  if(!holding(lk))
+  if(!holding(lk))  // 防御性编程
     panic("release");
 
   lk->cpu = 0;
